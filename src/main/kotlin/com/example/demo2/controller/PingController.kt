@@ -11,6 +11,7 @@ import java.net.http.HttpClient
 @RestController
 class PingController {
 
+    // test
     @GetMapping("/ping")
     fun ping(): String {
         return "pong"
