@@ -1,0 +1,10 @@
+servicename: carrot-service
+author:
+  email: xxx.xxx@gmail.com
+  username: xxxxx
+
+subsidiary:
+  korea: true
+  japan: false
+  germany: false
+  ...
